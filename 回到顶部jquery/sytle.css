@@ -1,0 +1,22 @@
+.goTopButton{
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background: red;
+  width: 40px;
+  height: 40px;
+}
+
+.goTopButton-arrow{
+  border-width: 10px;
+  border-color:  transparent transparent black transparent;
+  border-style: solid;
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-left: -10px;
+  margin-top: -15px;
+  
+}
